@@ -3,28 +3,46 @@
     padding: 0;
 }
 
-div{
-    height: 200px;
-    width: 200px;
+.main{
+    height: 600px;
+    width: 500px;
+    padding: 2px;
+    border: none;
     margin: 20px auto;
-    float: left;
+}
+
+div{
+    height: 100%;
+    width: 45%;
     border: 1px solid black;
+    text-align: justify;
+    padding: 10px;
+}
+
+.one{
+    float: left;
+}
+
+.two{
+    float: right;
 }
 
 div h2{
     width: 100%;
-    height: 4%;
-    padding: 20px;
+    height: 10%;
+    float: left;
 }
 
 div p{
     width: 100%;
-    height: 50%;
-    padding: 10px;
+    height: 30%;
+    float: left;
 }
 
 div ol{
-    width: 100%;
+    width: 80%;
     height: 46%;
-    padding: 20%;
+    float: left;
+    text-align: justify;
+    padding: 0 20px 0 20px;
 }
