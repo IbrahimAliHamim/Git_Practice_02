@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    height: 900px;
+    width: 200px;
+    float: left;
+}
+
+div h2{
+    width: 100%;
+    height: 4%;
+    padding: 20px;
+}
+
+div p{
+    width: 100%;
+    height: 50%;
+    padding: 10px;
+}
+
+div ol{
+    width: 100%;
+    height: 46%;
+    padding: 20%;
+}
