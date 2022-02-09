@@ -4,9 +4,11 @@
 }
 
 div{
-    height: 300px;
+    height: 200px;
     width: 200px;
+    margin: 20px auto;
     float: left;
+    border: 1px solid black;
 }
 
 div h2{
